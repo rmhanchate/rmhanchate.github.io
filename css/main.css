@@ -200,10 +200,6 @@ hr {
 	height: 0;
 }
 
-/**
- * Spacing - (_document-setup.scss)  
- * -------------------------------------------------------------------
- */
 button, .button {
 	margin-bottom: 1.2;
 }
@@ -227,10 +223,6 @@ form,
 	margin-bottom: 3rem;
 }
 
-/**
- * floated image - (_document-setup.scss)  
- * -------------------------------------------------------------------
- */
 img.pull-right {
 	margin: .9rem 0 0 2.4rem;
 }
@@ -239,12 +231,6 @@ img.pull-left {
 }
 
 
-/** 
- * ===================================================================
- * 10. intro - (_layout.scss) 
- *
- * ------------------------------------------------------------------- 
- */
 #intro {
 	background: #151515 url(../images/bg.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
@@ -371,11 +357,6 @@ img.pull-left {
 	color: #cc005f;
 }
 
-/**
- * responsive:
- * Intro
- * --------------------------------------------------------------- 
- */
 @media only screen and (max-width:1024px) {
 	.intro-content h1 {
 		font-size: 7.6rem;
