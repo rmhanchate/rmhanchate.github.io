@@ -326,10 +326,6 @@ li {
 	display: block;
 }
 
-/**
- * links - (_basic.scss)
- * ------------------------------------------------------------------- 
- */
 a {
 	text-decoration: none;
 	line-height: inherit;
